@@ -1,0 +1,65 @@
+[
+    [
+        33880,
+        {
+            "name": "Watch",
+            "category": "wearables",
+            "description": "A Bell & Ross limited edition",
+            "ability": "Keeps Time"
+        }
+    ],
+    [
+        42231,
+        {
+            "name": "TimeShirt",
+            "category": "wearables",
+            "description": "A worn down white T-shirt",
+            "ability": "Travel Through Time"
+        }
+    ],
+    [
+        86977,
+        {
+            "name": "ScrewDriver",
+            "category": "tools",
+            "description": "Used to fix small items",
+            "ability": 15.0
+        }
+    ],
+    [
+        69031,
+        {
+            "name": "Watch",
+            "category": "wearables",
+            "description": "A Bell & Ross limited edition",
+            "ability": "Keeps Time"
+        }
+    ],
+    [
+        80632,
+        {
+            "name": "Health",
+            "category": "consumables",
+            "description": "Used to restore some health",
+            "ability": 16.0
+        }
+    ],
+    [
+        56620,
+        {
+            "name": "TimeShirt",
+            "category": "wearables",
+            "description": "A worn down white T-shirt",
+            "ability": "Travel Through Time"
+        }
+    ],
+    [
+        93697,
+        {
+            "name": "Health",
+            "category": "consumables",
+            "description": "Used to restore some health",
+            "ability": 11.0
+        }
+    ]
+]
